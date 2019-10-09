@@ -1,7 +1,7 @@
 // For command line git tutorial
 <<<<<<< HEAD
 // Local repo modification
-
+//Second: Local repository modification
 
 print("hello world")
 print("please you world")
